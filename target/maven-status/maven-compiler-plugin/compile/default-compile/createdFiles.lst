@@ -10,6 +10,7 @@ com\argportfolio\argp2\Security\Controller\AuthController.class
 com\argportfolio\argp2\Security\Controller\NuevoUsuario.class
 com\argportfolio\argp2\Security\Controller\Mensaje.class
 com\argportfolio\argp2\Controller\CExperiencia.class
+com\argportfolio\argp2\WebConfig.class
 com\argportfolio\argp2\Interface\IPersonaService.class
 com\argportfolio\argp2\Security\jwt\JwtProvider.class
 com\argportfolio\argp2\Service\ImpPersonaService.class
