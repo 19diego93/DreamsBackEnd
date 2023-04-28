@@ -1,3 +1,4 @@
+com\argportfolio\argp2\Dto\dtoEducacion.class
 com\argportfolio\argp2\Security\Dto\LoginUsuario.class
 com\argportfolio\argp2\Argp2Application.class
 com\argportfolio\argp2\Security\Entity\UsuarioPrincipal.class
@@ -5,9 +6,11 @@ com\argportfolio\argp2\Security\Service\UserDetailsImpl.class
 com\argportfolio\argp2\Security\Service\UsuarioService.class
 com\argportfolio\argp2\Security\Repository\iUsuarioRepository.class
 com\argportfolio\argp2\Security\Service\SExperiencia.class
+com\argportfolio\argp2\Entity\Educacion.class
 com\argportfolio\argp2\Entity\Experiencia.class
 com\argportfolio\argp2\Security\Controller\AuthController.class
 com\argportfolio\argp2\Security\Controller\NuevoUsuario.class
+com\argportfolio\argp2\Repository\REducacion.class
 com\argportfolio\argp2\Security\Controller\Mensaje.class
 com\argportfolio\argp2\Controller\CExperiencia.class
 com\argportfolio\argp2\WebConfig.class
@@ -24,7 +27,9 @@ com\argportfolio\argp2\Entity\Persona.class
 com\argportfolio\argp2\Security\MainSecurity.class
 com\argportfolio\argp2\Dto\dtoExperiencia.class
 com\argportfolio\argp2\Repository\RExperiencia.class
+com\argportfolio\argp2\Service\SEducacion.class
 com\argportfolio\argp2\Controller\PersonaController.class
 com\argportfolio\argp2\Security\Entity\Rol.class
 com\argportfolio\argp2\Repository\IPersonaRepository.class
 com\argportfolio\argp2\Security\jwt\JwtTokenFilter.class
+com\argportfolio\argp2\Controller\CEducacion.class

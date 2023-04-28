@@ -1,5 +1,7 @@
+C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Service\SEducacion.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Controller\PersonaController.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Interface\IPersonaService.java
+C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Repository\REducacion.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Argp2Application.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Controller\NuevoUsuario.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Dto\JwtDto.java
@@ -7,6 +9,7 @@ C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\c
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Controller\AuthController.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Controller\Mensaje.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Enums\RolNombre.java
+C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Dto\dtoEducacion.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Controller\CExperiencia.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Service\UserDetailsImpl.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Service\ImpPersonaService.java
@@ -15,6 +18,7 @@ C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\c
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Dto\dtoExperiencia.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Repository\RExperiencia.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Entity\Experiencia.java
+C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Controller\CEducacion.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Service\UsuarioService.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\MainSecurity.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Repository\IPersonaRepository.java
@@ -22,6 +26,7 @@ C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\c
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Entity\Persona.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Service\SExperiencia.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\WebConfig.java
+C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Entity\Educacion.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\jwt\JwtEntryPoint.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Repository\iRolRepository.java
 C:\Users\robst\OneDrive\Escritorio\ArgPrograma\backendargp\argp2\src\main\java\com\argportfolio\argp2\Security\Entity\Rol.java
